@@ -110,7 +110,7 @@ int main()
                         cin >> e.last_name;
                         cout << "Enter the new Course    : ";
                         cin >> e.course;
-                        cout << "Enter new the Section   : ";
+                        cout << "Enter the new Section   : ";
                         cin >> e.section;
                         fseek(fp, - recsize, SEEK_CUR);
                         fwrite(&e,recsize,1,fp);
