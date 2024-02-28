@@ -104,9 +104,9 @@ int main()
                 {
                     if (strcmp(e.last_name,xlast_name) == 0)
                     {
-                        cout << "Enter the new Firt Name : ";
+                        cout << "Enter  Firt Name : ";
                         cin >> e.first_name;
-                        cout << "Enter new the Last Name : ";
+                        cout << "Enter the new Last Name : ";
                         cin >> e.last_name;
                         cout << "Enter new the Course    : ";
                         cin >> e.course;
