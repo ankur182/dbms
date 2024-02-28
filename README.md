@@ -108,7 +108,7 @@ int main()
                         cin >> e.first_name;
                         cout << "Enter the new Last Name : ";
                         cin >> e.last_name;
-                        cout << "Enter new the Course    : ";
+                        cout << "Enter the new Course    : ";
                         cin >> e.course;
                         cout << "Enter new the Section   : ";
                         cin >> e.section;
